@@ -1,4 +1,5 @@
 # Machine_Learning_Project
+#Diabetes_Prediction_Model
 This project focuses on building a Machine Learning model that predicts whether a person is likely to have diabetes based on key health indicators such as glucose levels, BMI, insulin, age, and blood pressure. The goal is to assist in early diagnosis and prevention using data-driven techniques.
 
 🎯 Objective
